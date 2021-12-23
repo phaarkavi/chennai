@@ -1,2 +1,3 @@
 # chennai
-practice
+-practice
+-daily
